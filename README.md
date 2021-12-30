@@ -42,4 +42,9 @@ Users should be able to:
 - Flexbox
 - Mobile-first workflow
 
+## Author
+
+- Frontend Mentor - [@zdenman](https://www.frontendmentor.io/profile/zdenman)
+
+
 
